@@ -1,5 +1,5 @@
 # Agr-calculator-
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -100,7 +100,7 @@
 
   <div class="header">
     <!-- Left Logo -->
-    <img src="" alt="Left Logo">
+    <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744384921/IMG_20250411_202120_wx6x6n.png" alt="Left Logo">
     
     <!-- Title -->
     <h1>Muzamil's Age Calculator</h1>
@@ -164,4 +164,4 @@
   </script>
 
 </body>
-</html>
+
